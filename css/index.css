@@ -156,3 +156,120 @@
 }
 
 
+
+
+
+
+
+/* The animation code */
+@keyframes animateCardBorder_red {
+    0% {border-color: transparent;}
+    50% {border-color: red;}
+    100% {border-color: transparent;}
+}
+@-webkit-keyframes animateCardBorder_red {
+    0% {border-color: transparent;}
+    50% {border-color: red;}
+    100% {border-color: transparent;}
+}
+
+/* The element to apply the animation to */
+.animateCardBorder_red {
+    border: transparent 3px solid;
+    -webkit-animation-name: animateCardBorder_red; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.5s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 2; /* Chrome, Safari, Opera */
+    animation-name: animateCardBorder_red;
+    animation-duration: 0.5s;
+    animation-iteration-count: 2;
+}
+/* The animation code */
+@keyframes animateCardBorder_orange {
+    0% {border-color: transparent;}
+    50% {border-color: orange;}
+    100% {border-color: transparent;}
+}
+@-webkit-keyframes animateCardBorder_orange {
+    0% {border-color: transparent;}
+    50% {border-color: orange;}
+    100% {border-color: transparent;}
+}
+
+/* The element to apply the animation to */
+.animateCardBorder_orange {
+    border: transparent 3px solid;
+    -webkit-animation-name: animateCardBorder_orange; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.5s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 2; /* Chrome, Safari, Opera */
+    animation-name: animateCardBorder_orange;
+    animation-duration: 0.5s;
+    animation-iteration-count: 2;
+}
+/* The animation code */
+@keyframes animateCardBorder_green {
+    0% {border-color: transparent;}
+    50% {border-color: green;}
+    100% {border-color: transparent;}
+}
+@-webkit-keyframes animateCardBorder_green {
+    0% {border-color: transparent;}
+    50% {border-color: green;}
+    100% {border-color: transparent;}
+}
+
+/* The element to apply the animation to */
+.animateCardBorder_green {
+    border: transparent 3px solid;
+    -webkit-animation-name: animateCardBorder_green; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.5s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 2; /* Chrome, Safari, Opera */
+    animation-name: animateCardBorder_green;
+    animation-duration: 0.5s;
+    animation-iteration-count: 2;
+}
+/* The animation code */
+@keyframes animateCardBorder_blue {
+    0% {border-color: transparent;}
+    50% {border-color: blue;}
+    100% {border-color: transparent;}
+}
+@-webkit-keyframes animateCardBorder_blue {
+    0% {border-color: transparent;}
+    50% {border-color: blue;}
+    100% {border-color: transparent;}
+}
+
+/* The element to apply the animation to */
+.animateCardBorder_blue {
+    border: transparent 3px solid;
+    -webkit-animation-name: animateCardBorder_blue; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.5s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 2; /* Chrome, Safari, Opera */
+    animation-name: animateCardBorder_blue;
+    animation-duration: 0.5s;
+    animation-iteration-count: 2;
+}
+/* The animation code */
+@keyframes animateCardBorder_purple {
+    0% {border-color: transparent;}
+    50% {border-color: purple;}
+    100% {border-color: transparent;}
+}
+@-webkit-keyframes animateCardBorder_purple {
+    0% {border-color: transparent;}
+    50% {border-color: purple;}
+    100% {border-color: transparent;}
+}
+
+/* The element to apply the animation to */
+.animateCardBorder_purple {
+    border: transparent 3px solid;
+    -webkit-animation-name: animateCardBorder_purple; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.5s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 2; /* Chrome, Safari, Opera */
+    animation-name: animateCardBorder_purple;
+    animation-duration: 0.5s;
+    animation-iteration-count: 2;
+}
+
+
