@@ -2,6 +2,146 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddca6aeb-c4c4-4992-a3fc-a69984ca69e3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blue-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circle-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/green-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ltblue-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/orange-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/progress-running.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/purple-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/red-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scale-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/yellow-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/examples.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/blue-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/circle-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/green-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/ltblue-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/orange-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/progress-running.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/purple-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/red-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/scale-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/images/yellow-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/jquery-1.4.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/jquery-1.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/json2.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/files.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/_global_.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.BoundingBox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.Event.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.Geocoder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.Invoker.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.LatLonPoint.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.Mapstraction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.Marker.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.Polyline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.Radius.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.util.Color.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/mxn.util.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/src/C__Users_nick_Documents_timemap_mxn_build_timemap_mxn.core.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/src/C__Users_nick_Documents_timemap_mxn_build_timemap_mxn.geocoder.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/docs/symbols/src/C__Users_nick_Documents_timemap_mxn_build_timemap_mxn.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.cartociudad.geocoder-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.cartociudad.geocoder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.cloudmade.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.cloudmade.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.geocoder-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.geocoder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.geocommons.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.geocommons.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.google.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.google.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.google.geocoder-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.google.geocoder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.googleearth.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.googleearth.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.googlev3.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.googlev3.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.googlev3.geocoder-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.googlev3.geocoder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.mapquest.geocoder-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.mapquest.geocoder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.microsoft.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.microsoft.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.multimap.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.multimap.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.openlayers.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.openlayers.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.openspace.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.openspace.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.ovi.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.ovi.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.yahoo.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.yahoo.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.yandex.core-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.yandex.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.yandex.geocoder-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/mxn/mxn.yandex.geocoder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/timeline-1.2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/timeline-1.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/timeline-2.3.0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/lib/timeline-2.3.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/ext/circle_icons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/ext/export.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/loaders/flickr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/loaders/georss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/loaders/google_spreadsheet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/loaders/json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/loaders/kml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/loaders/metaweb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/loaders/progressive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/loaders/xml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/param.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/state.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/src/timemap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/timemap.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timemap/timemap_full.pack.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/index.js" afterPath="$PROJECT_DIR$/lib/index.js" />
@@ -25,28 +165,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47309834">
-              <caret line="30" column="122" selection-start-line="30" selection-start-column="122" selection-end-line="30" selection-end-column="122" />
+            <state vertical-scroll-proportion="-26.25">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.6651786">
+              <caret line="375" column="44" selection-start-line="375" selection-start-column="44" selection-end-line="375" selection-end-column="44" />
+              <folding>
+                <marker date="1454832108793" expanded="true" signature="10403:10428" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-28.125">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.625">
+              <caret line="33" column="79" selection-start-line="33" selection-start-column="79" selection-end-line="33" selection-end-column="79" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,8 +223,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -67,7 +235,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/data/life.json" />
+        <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/lib/index.js" />
       </list>
     </option>
@@ -78,8 +249,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -107,6 +280,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -135,27 +309,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="timemap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FootprintOfHu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FootprintofHu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,7 +323,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -217,6 +376,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HIDE_INHERITED,HIDE_INHERITED_FROM_OBJECT" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -230,25 +392,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16535018" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14436248" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -270,13 +432,12 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -284,8 +445,10 @@
     <entry file="file://$PROJECT_DIR$/lib/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1454832108793" expanded="true" signature="10403:10428" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -294,11 +457,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
           <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -307,7 +469,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1454832108793" expanded="true" signature="10403:10428" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -316,11 +480,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
           <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -329,30 +492,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1454832108793" expanded="true" signature="10403:10428" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
           <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/timemap/timemap.pack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -360,21 +514,91 @@
     <entry file="file://$PROJECT_DIR$/lib/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1454832108793" expanded="true" signature="10403:10428" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/life.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/example.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18415178">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47309834">
-          <caret line="30" column="122" selection-start-line="30" selection-start-column="122" selection-end-line="30" selection-end-column="122" />
+        <state vertical-scroll-proportion="-26.25">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.125">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.625">
+          <caret line="33" column="79" selection-start-line="33" selection-start-column="79" selection-end-line="33" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6651786">
+          <caret line="375" column="44" selection-start-line="375" selection-start-column="44" selection-end-line="375" selection-end-column="44" />
+          <folding>
+            <marker date="1454832108793" expanded="true" signature="10403:10428" placeholder="..." />
           </folding>
         </state>
       </provider>

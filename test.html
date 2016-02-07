@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="awesome-markers/leaflet.awesome-markers.css">
+    <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+    <script src="awesome-markers/leaflet.awesome-markers.min.js"></script>
+
+    <!--local resources-->
+    <script src="lib/index.js"></script>
+    <link rel="stylesheet" href="css/index.css" />
+    <title>Title</title>
+</head>
+<body>
+
+
+<div style="height:60px; width: 60px;">
+    <svg style="height: 60px; width: 60px">
+        <circle r="30" cx="30" cy="30" fill="transparent" fill-opacity="0.3" stroke="transparent" stroke-width="0">
+            <animate attributeName="r" from="0" to="30" dur="1s"/>
+            <animate attributeName="stroke-width" from="4" to="0" dur="1s"/>
+            <animate attributeName="fill" from="#e65100" to="transparent" dur="1s"/>
+            <animate attributeName="stroke" from="#e65100" to="transparent" dur="1s"/>
+        </circle>
+    </svg>
+</div>
+
+<div id="@@id" class="row" style="width: 300px; margin: 0px; overflow-y: hidden">
+    <div class="col s12">
+        <div class="card grey lighten-1" style="margin-right: 20px">
+            <div class="card-content" >
+                @@imgElement
+                <span class="card-title">@@title</span>
+                <div style="font-size: 17px; color: #00695c" >@@time</div>
+                <p>@@description</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card-image">
+    <img src="@@imgPath">
+</div>
+
+</body>
+</html>

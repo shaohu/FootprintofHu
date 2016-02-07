@@ -7,41 +7,42 @@
     <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
     <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-
     <script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="awesome-markers/leaflet.awesome-markers.css">
+    <script src="awesome-markers/leaflet.awesome-markers.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
 
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.min.css" />
+    <script src="//cdn.jsdelivr.net/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.concat.min.js"></script>
 
     <!--local resources-->
     <script src="lib/index.js"></script>
+    <link rel="stylesheet" href="css/index.css" />
 
     <!--Webpage elements-->
     <title>Hu Shao's Footprint</title>
     <style>
         #map {
             position:absolute;
-            top:0px;
-            right:0;
+            top:210px;
+            right:300px;
             bottom:0;
             left:0;
         }
     </style>
 </head>
-<body onload="loadPage()">
+<body onload="loadPage()" onresize="onPageResize()">
 <div id="map"></div>
-<div style="position: absolute; top:0px; left: 0px; right: 0px; height: 60px; background-color: black; opacity: 0.5; color: white; font-size: 30px;">
-    <div style="background-color: transparent; color: white; padding: 10px">Hu Shao's Footprint</div>
+<div id="title" style="position: absolute; top:0px; left: 0px; right: 0px; height: 60px; background-color: rgb(225,223,218); opacity: 1; color: #455a64; font-size: 30px;">
+    <div style="padding: 10px">Hu Shao's Footprint</div>
 </div>
-<div style="position: absolute; top: 62px; right: 2px; bottom: 104px; width: 300px; background-color: darkblue; opacity: 0.5; color: white; font-size: 30px; text-align: center">
-    Information panel
-    <div style="font-size: 20px">
-        Put text, images and graphics here.
-    </div>
+<div id="timeLine" class="unselectable" style="position: absolute; top: 60px; left: 0px; right: 0px; height: 150px; font-size: 13px; color:black; cursor: default"></div>
+<div id="cardContainer" style="position: absolute; top: 210px; right: 0px; bottom: 0px; width: 300px; background-color: #e0e0e0">
+
 </div>
-<div id="timeLine" style="position: absolute; bottom: 2px; left: 2px; right: 2px; height: 100px; background-color: darkcyan; opacity: 1; font-size: 13px; color: black">
-    Time line
-    <div style="font-size: 20px">
-        Put interactive time line here.
-    </div>
-</div>
+
+
 </body>
 </html>

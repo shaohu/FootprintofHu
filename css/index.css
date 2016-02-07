@@ -1,0 +1,158 @@
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.circle{
+    width:6px;
+    height:6px;
+    border:4px solid #00796b;
+    border-radius:50%;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-10px;
+    margin-top:-10px;
+    background: transparent;
+    animation-name: circle;
+    animation-duration: 4s;
+}
+
+@keyframes circle {
+    50%  {
+        border: 2px #4db6ac;
+        width: 10px;
+        height:10px;
+    }
+    100% {
+        border: 1px transparent;
+        width: 18px;
+        height: 18px;
+    }
+}
+
+.animatePointDiv{
+    height:60px;
+    width: 60px;
+}
+
+/* The animation code */
+@keyframes animateLineColor_red {
+    0% {stroke: red;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: red;}
+}
+@-webkit-keyframes animateLineColor_red {
+    0% {stroke: red;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: red;}
+}
+
+/* The element to apply the animation to */
+.animateLineColor_red {
+    stroke: red;
+    -webkit-animation-name: animateLineColor_red; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.25s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 4; /* Chrome, Safari, Opera */
+    animation-name: animateLineColor_red;
+    animation-duration: 0.25s;
+    animation-iteration-count: 4;
+}
+
+/* The animation code */
+@keyframes animateLineColanimateLineColor_orangeor_red {
+    0% {stroke: orange;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: orange;}
+}
+@-webkit-keyframes animateLineColor_orange {
+    0% {stroke: orange;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: orange;}
+}
+
+/* The element to apply the animation to */
+.animateLineColor_orange {
+    stroke: orange;
+    -webkit-animation-name: animateLineColor_orange; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.25s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 4; /* Chrome, Safari, Opera */
+    animation-name: animateLineColor_orange;
+    animation-duration: 0.25s;
+    animation-iteration-count: 4;
+}
+
+/* The animation code */
+@keyframes animateLineColor_green {
+    0% {stroke: green;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: green;}
+}
+@-webkit-keyframes animateLineColor_green {
+    0% {stroke: green;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: green;}
+}
+
+/* The element to apply the animation to */
+.animateLineColor_green {
+    stroke: green;
+    -webkit-animation-name: animateLineColor_green; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.5s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 2; /* Chrome, Safari, Opera */
+    animation-name: animateLineColor_green;
+    animation-duration: 0.5s;
+    animation-iteration-count: 2;
+}
+
+/* The animation code */
+@keyframes animateLineColor_blue {
+    0% {stroke: blue;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: blue;}
+}
+@-webkit-keyframes animateLineColor_blue {
+    0% {stroke: blue;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: blue;}
+}
+
+/* The element to apply the animation to */
+.animateLineColor_blue {
+    stroke: blue;
+    -webkit-animation-name: animateLineColor_blue; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.25s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 4; /* Chrome, Safari, Opera */
+    animation-name: animateLineColor_blue;
+    animation-duration: 0.25s;
+    animation-iteration-count: 4;
+}
+
+/* The animation code */
+@keyframes animateLineColor_purple {
+    0% {stroke: purple;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: purple;}
+}
+@-webkit-keyframes animateLineColor_purple {
+    0% {stroke: purple;}
+    50% {stroke: #00e5ff;}
+    100% {stroke: purple;}
+}
+
+/* The element to apply the animation to */
+.animateLineColor_purple {
+    stroke: purple;
+    -webkit-animation-name: animateLineColor_purple; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 0.25s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 4; /* Chrome, Safari, Opera */
+    animation-name: animateLineColor_purple;
+    animation-duration: 0.25s;
+    animation-iteration-count: 4;
+}
+
+
